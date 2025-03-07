@@ -9,3 +9,5 @@ Shows the certificate for Tri-C.edu
 Shows the OrderDetails records where the quantity is over 20 sorted by ProductID.
 # MyHTML.png
 Shows the Code and Result I created for a website
+# MyResume.docx
+Shows my current resume Mar/7/2025
