@@ -11,3 +11,5 @@ Shows the OrderDetails records where the quantity is over 20 sorted by ProductID
 Shows the Code and Result I created for a website
 # MyResume.docx
 Shows my current resume Mar/7/2025
+# SemesterReflection.docx
+Shows my reflection of my Introduction to IT Class
